@@ -1,0 +1,26 @@
+
+.brand{
+    display: flex;
+    justify-content: center;
+
+}
+
+.icon {
+    font-size: 2rem;
+    color: #6900ff;
+}
+
+.purple {
+    color: #6900ff;
+}
+
+.converterlink{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 20px;
+    font-weight: bold;
+}
+
+.converterlink :hover{
+    color: #6900ff;
+}
