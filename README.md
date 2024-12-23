@@ -9,7 +9,7 @@ CryptoVista graphy is a React-based web application that provides real-time cryp
 - Responsive design suitable for all devices.
 - Clean, modern UI with easy-to-use controls.
 
-# Tech Stack
+# Tech Stack Used
 
 - **React** - JavaScript library for building user interfaces.
 - **Chart.js** - JavaScript library for creating charts and graphs.
