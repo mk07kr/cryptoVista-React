@@ -29,6 +29,7 @@ function App() {
 
 
   return (
+    <SpeedInsights>
     <div className="App">
       <Navbar/>
         <Routes>
@@ -48,6 +49,7 @@ function App() {
 
       {/* </Switch> */}
     </div>
+    </SpeedInsights>
   );
 }
 
