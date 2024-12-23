@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios'
 import { Routes, Route, Switch } from 'react-router-dom';
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 import Coins from './components/Coins';
 import Navbar from './components/Navbar';
